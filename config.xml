@@ -4,7 +4,8 @@
     id        = "com.phonegap.malp"
     version   = "1.0.0">
 
-<name>Agenda de Servicios/name>
+<name>Agenda de Servicios>
+    </name>
 
 <description>
 Servicios
