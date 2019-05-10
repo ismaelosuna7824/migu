@@ -14,9 +14,11 @@ Servicios
 miguel angel lopez perez
 </author>
 
-<plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
-<icon src="images/servicios.png" gap:platform="android" gap:density="hdpi" />
+
 <plugin name="cordova-plugin-dialogs" spec="~1.3.3" />
+    <icon src="images/servicios.png" gap:platform="android" gap:density="hdpi" />
+<plugin name="cordova-plugin-inappbrowser" spec="~3.0.0" />
+
 
 
 </widget>
